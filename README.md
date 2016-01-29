@@ -1,3 +1,8 @@
 monolithic - 2 node apps
 
-npm run test
+### Important commands
+`npm run test`
+
+`webpack`
+
+`webpack-dev-server`
